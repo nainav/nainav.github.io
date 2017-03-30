@@ -1,4 +1,4 @@
-# Mindreeper2420.github.io
+# nainav.github.io
 This repo is my own personal site, hosted on GitHub.
 
 If you wish to run this site locally, please follow the Installation steps below. Thanks!

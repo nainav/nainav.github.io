@@ -1,9 +1,9 @@
 {
-  "name": "jolicoeur",
-  "title": "Adam J. Jolicoeur",
+  "name": "Naina",
+  "title": "Naina Verma",
   "version": "1.1.1",
-  "homepage": "https://mindreeper2420.github.io/",
-  "author": "Adam J. Jolicoeur",
+  "homepage": "https://nainav.github.io/",
+  "author": "Naina Verma",
   "license": {
     "type": "Apache 2.0"
   },
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://mindreeper2420.github.com/mindreeper2420.github.io.git"
+    "url": "https://github.com/nainav/nainav.github.io.git"
   }
 }
