@@ -11,7 +11,7 @@ var pkg = require('./package.json');
 // Set the banner content
 var banner = ['/*!\n',
     ' * Naina - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
-    ' * Copyright 2009-' + (new Date()).getFullYear(), ' <%= pkg.author %>\n',
+    ' * Copyright 2009 -' + (new Date()).getFullYear(), ' <%= pkg.author %>\n',
     ' * Licensed under <%= pkg.license.type %> (<%= pkg.license.url %>)\n',
     ' */\n',
     ''
